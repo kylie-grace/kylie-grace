@@ -1,8 +1,6 @@
 <h1 align="center">Kylie-Grace Mars-Snyder</h1>
 
-<p align="center">
-  infrastructure &nbsp;•&nbsp; AI systems &nbsp;•&nbsp; radio &nbsp;•&nbsp; fabrication
-</p>
+<p align="center">she/her &nbsp;·&nbsp; infrastructure &nbsp;·&nbsp; AI systems &nbsp;·&nbsp; radio &nbsp;·&nbsp; fabrication</p>
 
 <p align="center">
   Associate Director of Information &amp; Media Technology<br/>
@@ -11,54 +9,48 @@
 
 ---
 
-## About
+I run the technology infrastructure behind the Digital Media Commons at U-M — studios, fabrication spaces, and advanced computing environments serving thousands of students and researchers. Previously taught audio engineering at Ohio University. Independent engineer since 2007.
 
-I build systems at the intersection of infrastructure, media technology, and resilient computing.
+Outside of work: homelab, software-defined radio, mesh networks, local AI inference, cyberdecks, and whatever weird hardware project has my attention this month.
 
-By day I help run the technology ecosystem behind collaborative media, fabrication, and computing spaces serving thousands of students and researchers. Off-hours I’m usually building homelab infrastructure, AI workflows, radio systems, and portable field computing setups.
-
-Most of the work is private, internal, or in-progress.
+Most of this lives in private repos.
 
 ---
 
-## What I build
+### 🔧 What I build
 
-**Infrastructure** &nbsp; Proxmox · Docker · LXC · ZFS · VLAN networking · self-hosted tooling
-
-**AI** &nbsp; local inference · agent workflows · automation · applied LLM systems
-
-**Radio / RF** &nbsp; SDR · mesh networks · field communications · TAK ecosystems
-
-**Hardware** &nbsp; 3D printing · cyberdeck builds · embedded systems · enclosure design
-
-**Web / Automation** &nbsp; Python · TypeScript · JavaScript · Google Apps Script · AWS Lambda
+| | |
+|---|---|
+| **Infrastructure** | Proxmox · Docker · LXC · ZFS · VLAN · WireGuard · self-hosted tooling |
+| **AI** | Ollama · local inference · agent workflows · automation |
+| **Radio / RF** | SDR · LoRa · mesh networks · TAK ecosystems · field comms |
+| **Hardware** | 3D printing · cyberdeck builds · embedded systems |
+| **Code** | Python · TypeScript · JavaScript · Google Apps Script · AWS Lambda |
 
 ---
 
-## Current energy
+### ⚡ Currently
 
-- building portable field computing and communications systems
-- consolidating project documentation into public-facing repos
-- local AI inference workflows and tooling
-- making complex technical systems more understandable
+- designing portable field computing and communications systems
+- consolidating homelab documentation into something shareable
+- local LLM workflows and inference tooling
+- figuring out what to actually make public
 
 ---
 
-## Stack
+### 🛠 Stack
 
 <p>
-  <img src="https://img.shields.io/badge/Proxmox-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ZFS-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SDR-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/3D_Printing-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/ZFS-2D6FA3?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/SDR-CC0000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/3D_Printing-FF6B35?style=for-the-badge&logoColor=white" />
 </p>
 
 ---
-
-## Connect
 
 [kpsnyder.com](https://kpsnyder.com) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/kpsnyder) &nbsp;·&nbsp; [kpsnyder@umich.edu](mailto:kpsnyder@umich.edu)

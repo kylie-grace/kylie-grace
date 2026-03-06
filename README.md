@@ -1,8 +1,8 @@
-##Kylie-Grace
+## Hi 👋! I'm Kylie-Grace
 
 I build systems at the edges of infrastructure, radio, and applied AI.
 
-By day I run the technology ecosystem behind the Digital Media Commons at the University of Michigan — studios, fabrication spaces, and advanced computing environments used by thousands of students and researchers.
+By day I run the technology ecosystem behind the [Digital Media Commons at the University of Michigan](https://www.dc.umich.edu/) - audio and video studios, fabrication and maker spaces, and advanced computing environments that include virtual and augmented reality used by thousands of students and researchers.
 
 Outside of work I spend most of my time experimenting with:
 
@@ -26,7 +26,7 @@ Most of the interesting work lives in private repos.
 | **Code** | Python · TypeScript · JavaScript · Google Apps Script · AWS Lambda |
 
 
-### ⚡ Currently
+## ⚡ Currently
 
 - designing portable field computing and communications systems
 - experimenting with local AI systems and automation workflows
@@ -35,7 +35,7 @@ Most of the interesting work lives in private repos.
 - deciding which strange side projects deserve public repos
 
 
-### 🛠 Stack
+## 🛠 Stack
 
 <p>
   <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />

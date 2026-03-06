@@ -1,8 +1,8 @@
 ## Hi 👋! I'm Kylie-Grace
 
-I build systems at the edges of infrastructure, radio, and applied AI.
+I build systems at the edge of infrastructure, radio, and applied AI.
 
-By day I run the technology ecosystem behind the [Digital Media Commons at the University of Michigan](https://www.dc.umich.edu/) - audio and video studios, fabrication and maker spaces, and advanced computing environments that include virtual and augmented reality used by thousands of students and researchers.
+By day I run the technology ecosystem behind the <a href="https://www.dc.umich.edu" target="_blank">Digital Media Commons</a> at the <a href="https://www.umich.edu" target="_blank">University of Michigan</a> - audio and video studios, fabrication and maker spaces, and advanced computing environments that include virtual and augmented reality used by thousands of students and researchers.
 
 Outside of work I spend most of my time experimenting with:
 

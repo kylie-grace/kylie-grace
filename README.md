@@ -1,42 +1,39 @@
-<h1 align="center">Kylie-Grace Mars-Snyder</h1>
+##Kylie-Grace
 
-<p align="center">she/her &nbsp;·&nbsp; infrastructure &nbsp;·&nbsp; AI systems &nbsp;·&nbsp; radio &nbsp;·&nbsp; fabrication</p>
+I build systems at the edges of infrastructure, radio, and applied AI.
 
-<p align="center">
-  Associate Director of Information &amp; Media Technology<br/>
-  University of Michigan · Duderstadt Center
-</p>
+By day I run the technology ecosystem behind the Digital Media Commons at the University of Michigan — studios, fabrication spaces, and advanced computing environments used by thousands of students and researchers.
 
----
+Outside of work I spend most of my time experimenting with:
 
-I run the technology infrastructure behind the Digital Media Commons at U-M — studios, fabrication spaces, and advanced computing environments serving thousands of students and researchers. Previously taught audio engineering at Ohio University. Independent engineer since 2007.
+• homelab infrastructure  
+• software-defined radio  
+• mesh networks and field communications  
+• local AI inference systems  
+• cyberdeck and embedded hardware builds
 
-Outside of work: homelab, software-defined radio, mesh networks, local AI inference, cyberdecks, and whatever weird hardware project has my attention this month.
+Most of the interesting work lives in private repos.
 
-Most of this lives in private repos.
-
----
 
 ### 🔧 What I build
 
 | | |
 |---|---|
-| **Infrastructure** | Proxmox · Docker · LXC · ZFS · VLAN · WireGuard · self-hosted tooling |
+| **Infrastructure** | Proxmox · Docker · LXC · ZFS · VLAN networking · WireGuard · self-hosted services |
 | **AI** | Ollama · local inference · agent workflows · automation |
-| **Radio / RF** | SDR · LoRa · mesh networks · TAK ecosystems · field comms |
+| **Radio / RF** | SDR · LoRa · mesh networks · TAK ecosystems · field communications |
 | **Hardware** | 3D printing · cyberdeck builds · embedded systems |
 | **Code** | Python · TypeScript · JavaScript · Google Apps Script · AWS Lambda |
 
----
 
 ### ⚡ Currently
 
 - designing portable field computing and communications systems
-- consolidating homelab documentation into something shareable
-- local LLM workflows and inference tooling
-- figuring out what to actually make public
+- experimenting with local AI systems and automation workflows
+- building portable computing and radio platforms
+- documenting homelab infrastructure experiments
+- deciding which strange side projects deserve public repos
 
----
 
 ### 🛠 Stack
 
@@ -50,7 +47,3 @@ Most of this lives in private repos.
   <img src="https://img.shields.io/badge/SDR-CC0000?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/3D_Printing-FF6B35?style=for-the-badge&logoColor=white" />
 </p>
-
----
-
-[kpsnyder.com](https://kpsnyder.com) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/kpsnyder) &nbsp;·&nbsp; [kpsnyder@umich.edu](mailto:kpsnyder@umich.edu)
